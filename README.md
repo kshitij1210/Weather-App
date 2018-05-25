@@ -6,4 +6,4 @@ It is an Android App made by using JAVA which tells the temperature, weather con
 2. Parses the data and converts it into readable form and displays it.
 3. Also remembers the last city you checked and displays data about the same city when app is opened.
 
-Its not that advanced Weather App though but is good for basic learning.
+Its not that advanced Weather App though it serves the purpose.
