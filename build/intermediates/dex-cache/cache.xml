@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_0a012394602413b2b2f839799e09ea07811390de\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_1ba47ff6e8724533f248616cd83261e716797621\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7b752aec3a0ed9646e6e01463536b811b47d3cbc\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_81f46a5cc3b7ce04753b43c965f01154ce4aeb5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_1cd376e7af940c8abbfea686adabf0f7bd126409\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_591c874ffb29acd80558f591590892078048b658\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f17c2a7eaf5d95ab63b534567913207c80a50305">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91f1fadb9b79933ad4cba1f903d8c3b2cf415bbf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5aab7350f03af7c24298f9e1c52bdd6142d65f87\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_6037b7feb068534154178b3e96d74214fe8492aa\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d4d0ccba1d3f4cb5293c19df7c11be216dbd8afc">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf14313afc2323fa7a762ca4eb835a484a9e2098\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5_ed1a7bd9c4fbf3394daf18fef2b1a3e28fafd219\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.6\cf8bacbf0d476c7f2221f861269365b66447f7ec\httpmime-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cf8bacbf0d476c7f2221f861269365b66447f7ec">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpmime-4.3.6_a83674f5c3970adfa5301c2f87c0c96449f26fdf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_cf430c9eda7773550adf9d71e868a4da2aaec976\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_702291129f1fd0dd662b1fad7dd93ea11f82642a\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_0850cbabd8fdd0e3bbb47a93232b6a4c78dbeacf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0cc2f02994af3e087c29c5981ea79bc49c33bbfe\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_c686f2044c538835ae4fb73686ecb052702899dc\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_76ad1804653d83adb858628aa46df14e8ccb1827\classes.dex" />
+    </item>
+    <item
+        jar="E:\ANDROID\Weather App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\ANDROID\Weather App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e0ea433e9c9c10b658c7371d7634ab5f81c54b72\classes.dex" />
+    </item>
+
+</items>

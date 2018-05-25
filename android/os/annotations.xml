@@ -1,0 +1,5 @@
+<root>
+  <item name='android.os.AsyncTask.WorkerRunnable'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
